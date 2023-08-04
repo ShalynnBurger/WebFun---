@@ -1,0 +1,46 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body{
+    padding: 20px;
+    background-color: rgb(181, 177, 177);
+}
+#nav{
+    background-color: darkolivegreen;
+    height:200px;
+    margin-bottom: 20px;
+}
+
+#side{
+    height:400px;
+    width: 285px;
+    background-color: dodgerblue;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 20px;
+}
+
+#main{
+    height: 600px;
+    width:745px;
+    background-color: crimson;
+    display: inline-block;
+    padding: 20px;
+}
+
+.yellow-box{
+    display: inline-block;
+    height: 200px;
+    width:200px;
+    background-color: burlywood;
+    margin-right: 20px;
+}
+
+#purple-box{
+    background-color: darkorchid;
+    height:150px;
+    margin-top: 20px;
+}
