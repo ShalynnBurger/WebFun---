@@ -1,0 +1,38 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    
+}
+
+body{
+    padding: 40px;
+}
+
+#btn-one{
+    color:rgb(45, 188, 141);
+    width: 100px;
+    border: 1px solid rgb(45, 188, 141);
+    border-radius: 5px;
+    display: block;
+    margin-bottom: 15px;
+}
+
+#btn-two{
+    border-radius: 50%;
+    background-color: rgb(45, 188, 141);
+    color: white;
+    height: 30px;
+    width: 30px;
+    display: block;
+    margin-bottom: 15px;
+    border: 0;
+}
+
+#btn-three{
+    width:150px;
+    padding: 5px 15px;
+    color: white;
+    background-color: dodgerblue;
+    box-shadow: 3px 3px 3px black;
+}
