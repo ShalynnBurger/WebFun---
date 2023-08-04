@@ -1,0 +1,38 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body{
+    padding: 20px;
+}
+h1{
+    background-color: black;
+    color: white;
+    font-size: 50px;
+    padding-left: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-bottom: 20px;
+}
+
+span{
+    color: cyan;
+}
+
+p{
+    background-color: blueviolet;
+    color:white;
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+#a{
+    background-color: cornflowerblue;
+    text-align: right;
+    padding:10px;
+    font-size: 20px;
+}
